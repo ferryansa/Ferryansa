@@ -18,13 +18,13 @@ I have a solid foundation in data science and over 3 years of experience in IT i
 ### 📈 Projects
 Here are some of my projects showcasing my skills:
 
-- **[Global Bike Sales Analysis Pipeline 🚴‍♂️🌍](https://github.com/ferryansa/global-bike-sales-analysis-pipeline)**
+- **[Global Bike Sales Analysis Pipeline](https://github.com/ferryansa/global-bike-sales-analysis-pipeline)** 🚴‍♂️🌍
 : An end-to-end data pipeline for analyzing global bike sales data using PostgreSQL for data storage, ETL processes using Apache Airflow, loading into Elasticsearch, and visualization through Kibana for performance insights.
 
-2. **[xxx](#)**
+- **[xxx](#)**
 : xxx
 
-3. **[xxx](#)**
+- **[xxx](#)**
 : xxx
 
 ---
