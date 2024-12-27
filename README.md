@@ -21,7 +21,7 @@ Here are some of my projects showcasing my skills:
 - **[Global Bike Sales Analysis Pipeline](https://github.com/ferryansa/global-bike-sales-analysis-pipeline)** 🚴‍♂️🌍
 : An end-to-end data pipeline for analyzing global bike sales data using PostgreSQL for data storage, ETL processes using Apache Airflow, loading into Elasticsearch, and visualization through Kibana for performance insights.
 
-- **[Bird Species Classification](https://github.com/ferryansa/bird-species-classification)** 🐦📊  
+- **[Bird Species Classification](https://github.com/ferryansa/bird-species-classification)** 🐦📊
 : A deep learning project for classifying bird species using MobileNetV2, with 100% accuracy on test data. The project includes data preprocessing, augmentation, transfer learning, and real-world application recommendations.
 
 ---
