@@ -24,6 +24,9 @@ Here are some of my projects showcasing my skills:
 - **[Bird Species Classification](https://github.com/ferryansa/bird-species-classification)** 🐦📊
 : A deep learning project for classifying bird species using MobileNetV2, with 100% accuracy on test data. The project includes data preprocessing, augmentation, transfer learning, and real-world application recommendations.
 
+- **[Impact of Remote Work on Mental Health](https://github.com/ferryansa/impact-of-remote-work-on-mental-health)** 💻🧠  
+: A data-driven analysis exploring how remote work influences mental health. Leveraging statistical techniques, visualization, and predictive modeling, the project provides actionable insights to help organizations support employees in remote work environments effectively.
+
 ---
 
 ### 🔧 Skillset
